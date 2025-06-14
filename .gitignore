@@ -1,0 +1,12 @@
+# NetBeans build and cache folders
+/build/
+/dist/
+nbproject/private/
+
+# Compiled class files
+*.class
+
+# Log and temp files
+*.log
+*.bak
+*.tmp
